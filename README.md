@@ -3,6 +3,6 @@
 
 ## Notes
 Keys for the spaceship:
-W - move up
-S - move down
-K - shoot
+W - move up, 
+S - move down, 
+K - shoot.
